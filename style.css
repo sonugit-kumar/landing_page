@@ -46,7 +46,7 @@
     justify-content: space-between;
 }
 .navbar ul li a:hover{
-    color:red;
+    color:#009688;
 
 }
 .content{
@@ -86,7 +86,7 @@ button{
     
 }
 span{
-    background:red;
+    background:#009688;
     height: 100%;
     width: 0;
     border-radius: 25px;
